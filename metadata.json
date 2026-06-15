@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Khmer Speech Transcriber",
+  "description": "Professional Speech-to-Text transcriber for Khmer with translation, subtitles, speaker diarization, and song processing, powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
